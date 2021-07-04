@@ -1,0 +1,24 @@
+<html>
+<head>
+<title> select,buttons,file upload</title>
+</head>
+<body>
+<h1>select tag</h1>
+<h2>intrested courses</h2>
+<select size="2" multiple>
+<option selected>c language</option>
+<option> c++</option>
+<option>java</option>
+</select>
+
+<h1> file upload</h1>
+<input type="file"name="file">
+
+<h1> button</h1>
+<input type="submit" name="button" value="submit"><br>
+<input type="reset" name="button" value="reset"><br>
+<input type="button" name="button" value="click"><br>
+<input type="image" name="button" src="C:\Users\karna\Pictures\Screenshots\logo.PNG" width="500" height="150">
+</body>
+</html>
+
